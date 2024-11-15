@@ -27,8 +27,6 @@
   </dependencies>
   <properties>
     <sonar.token>squ_8d86dc4bb6b002e959026f93c0745203e73839fa</sonar.token>
-    <sonar.sources>src/main/java</sonar.sources>
-    <sonar.tests>src/test/java</sonar.tests>
   </properties>
   <build>
     <finalName>java-tomcat-maven-example</finalName>
