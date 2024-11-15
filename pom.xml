@@ -24,8 +24,12 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
+    
   </dependencies>
   <properties>
+  </properties>
+  <properties>
+    <sonar.token>squ_8d86dc4bb6b002e959026f93c0745203e73839fa</sonar.token>
   </properties>
   <build>
     <finalName>java-tomcat-maven-example</finalName>
