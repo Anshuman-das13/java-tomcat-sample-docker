@@ -4,7 +4,7 @@
   <groupId>com.example</groupId>
   <artifactId>java-tomcat-sample</artifactId>
   <packaging>war</packaging>
-  <version>1.0.2</version>
+  <version>1.0.1</version>
   <name>hello Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <distributionManagement>
@@ -25,9 +25,7 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-  <properties>
-    <sonar.token>squ_8d86dc4bb6b002e959026f93c0745203e73839fa</sonar.token>
-  </properties>
+  
   <build>
     <finalName>java-tomcat-maven-example</finalName>
     <plugins>
